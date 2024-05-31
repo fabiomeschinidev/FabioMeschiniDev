@@ -7,7 +7,10 @@ I am interested in software development so I like to study new programming langu
 Below is a list of my notes on different topics 
 
 - Short notes on editing markdown documents
-- Quick notes on git commands
+- Quick notes on git commands 
+- Most used powershell commands  
+- Most used dos bash commands 
+- Most used linux commands  
 
 ## Programming Languages & Code Examples
 Below you'll find a very simple examples in some programming languages to understand all basics
