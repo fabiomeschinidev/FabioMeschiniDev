@@ -1,7 +1,12 @@
 # Welcome
+
+Welcome to my space.
+
 I’m Fabio Meschini (@fabiomeschinidev) and this is my public space where somethime I publish some work or document. 
+
 I am interested in software development so I like to study new programming languages, new techniques and new technologies.  
-  I use this space to share all my notes, examples and useful tools. I like to share only what is necessary to start working with a new technology, leaving any further information and updates to the dedicated documentation references: about this I like to know all principal information to start working for then continue studying 'on the job'. The way I like to work follows the the Pareto principle also called  [The 20-80 principle](https://www.youtube.com/watch?v=lsGwqk_agcQ "The 20-80 principle") which suggests focusing on that part of notions that give the greatest result.
+
+  I use this space to share all my notes, examples and useful tools. Hope may be useful.
 
 ## Tecnology Notes
 Below is a list of my notes on different topics 
